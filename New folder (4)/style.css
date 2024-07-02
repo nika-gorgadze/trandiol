@@ -1,0 +1,163 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+
+
+
+.p1{
+    display: flex;
+    padding: 1rem 25rem;
+    justify-content: flex-end;
+    color: gray;
+    font-size: 14px;
+}
+.p2{
+    display: flex;
+    padding: 1px 20rem;
+    justify-content: flex-end;
+    color: gray;
+    font-size: 14px;
+    margin-top: -2rem;
+}
+.uk{
+    display: flex;
+    width: 1.5rem;
+    padding: 6px 97.5rem;
+    color: gray;
+    font-size: 14px;
+    margin-top: -1.3rem;
+}
+hr{
+    color: rgb(202, 202, 202);
+}
+
+
+
+.trendyol{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+.icons{
+    display: flex;
+    padding: 1px 100px;
+    width: 300px;
+    justify-content: space-evenly;
+    font-size: 13px;
+}
+input{
+    width: 35rem;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    background-color: rgb(238, 238, 238);
+    font-size: 20px;
+    padding: 0px 10px;
+}
+.h11{
+    font-weight: 200;
+    margin-left: 150px;
+}
+
+
+
+
+.womenmen{
+    display: flex;
+    padding: 15px 20rem;
+}
+.Women{
+    font-family: 100;
+    color: orange;
+}
+.Men{
+    color: gray;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+.container{
+    width: 92%;
+    min-height: 50rem;
+    background: linear-gradient(to right, rgb(255, 144, 17), rgb(255, 0, 106));
+    border-radius: 10px 10px 0px 1px;
+    margin-left: 4%;
+}
+
+.h21{
+    color: rgb(255, 166, 0);
+    font-size: 30px;
+    padding: 20px 30px;
+}
+.h21 span{
+    color: aliceblue;
+    font-size: 23px;
+    padding: 1px 10px;
+}
+
+.clothes{
+    width: 96%;
+    min-height: 43rem;
+    max-height: 60rem;
+    background-color: rgb(255, 255, 255);
+    margin-left: 2%;
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: none;
+}
+
+
+
+.clothes div{
+    width: 25rem;
+    height: 45rem;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+img{
+    width: 21.5rem;
+}
+.btn1{
+    width: 40px;
+    height: 40px;
+    border-radius: 90px;
+    border: 1px solid gray;
+    background-color: aliceblue;
+    margin-top: -37.5rem;
+    margin-left: 22rem;
+}
+
+.clothes h2{
+    font-size: 17px;
+}
+
+h4{
+    color: rgb(255, 166, 0);
+    font-size: 20px;
+    padding: 5px 1px;
+}
+
+.btn2{
+    width: 12.5rem;
+    height: 40px;
+    border: none;
+    background-color: rgb(248, 232, 202);
+    font-size: 12px;
+}
+
+.imges a img{
+    width: 99%;
+    padding: 10px;
+}
+.imges div{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px 70px;
+}
